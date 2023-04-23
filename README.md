@@ -22,7 +22,7 @@ E-commerce is an ever developing area. With the advancement in technology and co
 
 ### Demo photos
 <details>
-  #### Home
+  ### Home
   <img src="demo/Home.png" name="Home">
   <img src="demo/Shop.png" name="Shop">
   <img src="demo/Detail.png" name="Detail">
