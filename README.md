@@ -22,10 +22,23 @@ E-commerce is an ever developing area. With the advancement in technology and co
 
 ### Demo photos
 <details>
-  ### Home
+  Home
   <img src="demo/Home.png" name="Home">
+    
+  Shop
   <img src="demo/Shop.png" name="Shop">
+  
+  Detail
   <img src="demo/Detail.png" name="Detail">
+    
+  Cart
+  <img src="demo/Cart.png" name="Cart">  
+    
+  SignIn
+  <img src="demo/SingIn.png" name="SingIn">
+  
+  SignOn
+  <img src="demo/SignOn.png" name="SignOn">    
 </details>
     
 ## Installation & deployment(local server) process
