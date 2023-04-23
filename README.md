@@ -13,12 +13,19 @@ E-commerce is an ever developing area. With the advancement in technology and co
 
 
 ### Technologies Used
+1. Home image
+<img src="Home.png" />
+
+
+
 
 > Frontend-> React JS
 
 > Backend-> Node JS & Express JS
 
 > Database-> MongoDB Atlas
+
+### Demo
 
 ## Installation & deployment(local server) process
 1. #### clone the repo using this command
