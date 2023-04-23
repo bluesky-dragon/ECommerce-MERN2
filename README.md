@@ -44,7 +44,7 @@ E-commerce is an ever developing area. With the advancement in technology and co
 ## Installation & deployment(local server) process
 1. #### clone the repo using this command
     ```bash
-    git clone https://github.com/luisyanpederico/ECommerce.git
+    git clone https://github.com/bluesky-dragon/ECommerce.git
     ```
 2. #### install npm packages
     1. install backend packages
