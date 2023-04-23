@@ -35,10 +35,10 @@ E-commerce is an ever developing area. With the advancement in technology and co
   <img src="demo/Cart.png" name="Cart">  
     
   SignIn
-  <img src="demo/SingIn.png" name="SingIn">
+  <img src="demo/SignIn.png" name="SingIn">
   
   SignOn
-  <img src="demo/SignOn.png" name="SignOn">    
+  <img src="demo/SignUp.png" name="SignOn">    
 </details>
     
 ## Installation & deployment(local server) process
