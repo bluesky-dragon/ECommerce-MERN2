@@ -21,10 +21,10 @@ E-commerce is an ever developing area. With the advancement in technology and co
 > Database-> MongoDB Atlas
 
 ### Demo photos
-<details>
   Home
   <img src="demo/Home.png" name="Home">
-    
+  
+<details>
   Shop
   <img src="demo/Shop.png" name="Shop">
   
