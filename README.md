@@ -14,7 +14,7 @@ E-commerce is an ever developing area. With the advancement in technology and co
 
 ### Technologies Used
 1. Home image
-<img src="Home.png" />
+<img src="demo/Home.png" />
 
 
 
