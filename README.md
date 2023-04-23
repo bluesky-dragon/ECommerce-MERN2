@@ -21,11 +21,11 @@ E-commerce is an ever developing area. With the advancement in technology and co
 > Database-> MongoDB Atlas
 
 ### Demo
-<details>
+<Details photos>
   <img src="demo/Home.png" name="Home">
   <img src="demo/Shop.png" name="Shop">
   <img src="demo/Detail.png" name="Detail">
-</details>
+</Details photos>
     
 ## Installation & deployment(local server) process
 1. #### clone the repo using this command
