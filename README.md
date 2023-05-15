@@ -13,11 +13,6 @@ E-commerce is an ever developing area. With the advancement in technology and co
 
 
 ### Technologies Used
-1. Home image
-<img src="Home.png" />
-
-
-
 
 > Frontend-> React JS
 
@@ -25,12 +20,31 @@ E-commerce is an ever developing area. With the advancement in technology and co
 
 > Database-> MongoDB Atlas
 
-### Demo
-
+### Demo photos
+  Home
+  <img src="demo/Home.png" name="Home">
+  
+<details>
+  Shop
+  <img src="demo/Shop.png" name="Shop">
+  
+  Detail
+  <img src="demo/Detail.png" name="Detail">
+    
+  Cart
+  <img src="demo/Cart.png" name="Cart">  
+    
+  SignIn
+  <img src="demo/SignIn.png" name="SingIn">
+  
+  SignOn
+  <img src="demo/SingUp.png" name="SignUp">    
+</details>
+    
 ## Installation & deployment(local server) process
 1. #### clone the repo using this command
     ```bash
-    git clone https://github.com/luisyanpederico/ECommerce.git
+    git clone https://github.com/bluesky-dragon/ECommerce.git
     ```
 2. #### install npm packages
     1. install backend packages
