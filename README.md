@@ -1,9 +1,3 @@
-live:.cid.2fd64e0ca7cf706c
-
-
-
-
-
 # E-Commerce
 E-commerce is an ever developing area. With the advancement in technology and communication, e-commerce has also gained popularity among the people of India and worldwide. It has made e-business easy and accessible to people sitting at home. E-commerce has a huge impact on costs, access to goods and services and increased productivity of businesses. It also plays an important role in the economic growth and development of a nation. Though it is a relatively new area belonging to the era of the internet, it has the potential to change and replace the traditional form of business and trade activities. 
 ### App Description:
